@@ -7,12 +7,12 @@
 
 body {
     background-color: #f4f4f4;
-    color: #333;
+    color: #60b5c0;
     line-height: 1.6;
     padding: 20px;
 }
 
-/* Header */
+
 header {
     background-color: #333;
     color: white;
@@ -40,7 +40,7 @@ header nav ul li a:hover {
     text-decoration: underline;
 }
 
-/* Glavni sadržaj */
+
 h1 {
     text-align: center;
     font-size: 2.5em;
@@ -57,7 +57,7 @@ div {
     margin: 20px 0;
 }
 
-/* Slike */
+
 div img {
     display: block;
     margin: 10px auto;
@@ -65,7 +65,7 @@ div img {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Lista jela */
+
 h2 {
     text-align: center;
     font-size: 2em;
@@ -82,14 +82,14 @@ ul li {
     margin-bottom: 10px;
 }
 
-/* Video i audio */
+
 video, audio {
     display: block;
     margin: 0 auto;
     margin-top: 20px;
 }
 
-/* Footer */
+
 footer {
     background-color: #333;
     color: white;
@@ -125,7 +125,7 @@ tr:hover td {
     background-color: #e2e2e2;
 }
 
-/* Tabela specifični stilovi */
+
 h2 {
     text-align: center;
     font-size: 2em;
